@@ -1,0 +1,13 @@
+# File sementara Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# File hasil latihan
+output/*.txt
