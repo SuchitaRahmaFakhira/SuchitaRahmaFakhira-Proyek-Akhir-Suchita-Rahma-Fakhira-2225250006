@@ -1,0 +1,16 @@
+Contoh Data Soal Operasi Hitung Campuran
+
+1. Soal: 5 + 3 * 2
+   Jawaban: 11
+
+2. Soal: (5 + 3) * 2
+   Jawaban: 16
+
+3. Soal: 12 / 3 + 2
+   Jawaban: 6
+
+4. Soal: 10 - 2 * 3
+   Jawaban: 4
+
+5. Soal: 8 + 12 / 4
+   Jawaban: 11
